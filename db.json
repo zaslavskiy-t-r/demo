@@ -1,4 +1,11 @@
 {
+  "users":[
+    {"id": 11111, "name": "were"},
+    {"id": 11121, "name": "2were"},
+    {"id": 11113, "name": "1were"}
+
+  ],
+  
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
